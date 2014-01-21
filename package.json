@@ -1,0 +1,17 @@
+{
+  "name": "gas-underscore.string",
+  "version": "2.3.3",
+  "author": "Adam Piórowicz <adam@simula.no>",
+  "private": true,
+  "bin": {
+    "grunt": "./node_modules/grunt-cli/bin/grunt"
+  },
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-cli": "0.1.x",
+    "grunt-contrib-copy": "0.5.x",
+    "grunt-shell": "0.x",
+    "grunt-string-replace": "0.x",
+    "underscore.string": "2.3.3"
+  }
+}
